@@ -15,16 +15,16 @@
  */
 let games = [
     {
-        id: 271590,
-        name: "GTA V",
+        id: 1426210,
+        name: "双人成行",
     },
     {
-        id: 814380,
-        name: "只狼：影逝二度",
+        id: 1293830,
+        name: "极限竞速：地平线 4",
     },
     {
-        id: 292030,
-        name: "巫师 3：狂猎",
+        id: 1151640,
+        name: "Horizon Zero Dawn Complete Edition",
     },
 ];
 
